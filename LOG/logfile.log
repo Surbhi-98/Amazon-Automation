@@ -1,0 +1,437 @@
+2022-08-25 14:32:39,075 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 14:32:40,471 : INFO : test_search : Iphone Search Successfully
+2022-08-25 14:32:40,506 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 14:32:40,771 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 13 Pro (256GB) - Gold', 'Apple iPhone 13 Pro (256GB) - Sierra Blue']
+2022-08-25 14:32:40,771 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 13 Pro (256GB) - Gold', 'Apple iPhone 13 Pro (256GB) - Sierra Blue']
+2022-08-25 14:32:46,010 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 14:32:46,077 : INFO : test_sign_page : Email id Entered
+2022-08-25 14:32:47,453 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:32:47,453 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:32:47,485 : INFO : test_sign_page : Password Entered
+2022-08-25 14:32:47,485 : INFO : test_sign_page : Password Entered
+2022-08-25 14:32:47,485 : INFO : test_sign_page : Password Entered
+2022-08-25 14:32:47,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:32:47,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:32:47,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:32:47,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:32:50,160 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:32:50,160 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:32:50,160 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:32:50,160 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:32:50,160 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:32:50,223 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:32:50,223 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:32:50,223 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:32:50,223 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:32:50,223 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:32:50,223 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:38:11,887 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 14:38:13,409 : INFO : test_search : Iphone Search Successfully
+2022-08-25 14:38:13,451 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 14:38:13,731 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Blue', 'Apple iPhone 13 (512 GB) - Green', 'Apple iPhone 13 (512GB) - Starlight', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight']
+2022-08-25 14:38:13,731 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Blue', 'Apple iPhone 13 (512 GB) - Green', 'Apple iPhone 13 (512GB) - Starlight', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight']
+2022-08-25 14:38:20,250 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 14:38:20,355 : INFO : test_sign_page : Email id Entered
+2022-08-25 14:38:21,430 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:38:21,430 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:38:21,462 : INFO : test_sign_page : Password Entered
+2022-08-25 14:38:21,462 : INFO : test_sign_page : Password Entered
+2022-08-25 14:38:21,462 : INFO : test_sign_page : Password Entered
+2022-08-25 14:38:21,536 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:38:21,536 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:38:21,536 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:38:21,536 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:38:23,974 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:38:23,974 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:38:23,974 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:38:23,974 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:38:23,974 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:38:24,038 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:38:24,038 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:38:24,038 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:38:24,038 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:38:24,038 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:38:24,038 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:39:46,090 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 14:39:47,507 : INFO : test_search : Iphone Search Successfully
+2022-08-25 14:39:47,526 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 14:39:47,853 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Blue', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 13 Pro (256GB) - Gold']
+2022-08-25 14:39:47,853 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Blue', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 13 Pro (256GB) - Gold']
+2022-08-25 14:39:52,829 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 14:39:52,897 : INFO : test_sign_page : Email id Entered
+2022-08-25 14:39:53,787 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:39:53,787 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:39:53,820 : INFO : test_sign_page : Password Entered
+2022-08-25 14:39:53,820 : INFO : test_sign_page : Password Entered
+2022-08-25 14:39:53,820 : INFO : test_sign_page : Password Entered
+2022-08-25 14:39:53,890 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:39:53,890 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:39:53,890 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:39:53,890 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:39:55,893 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:39:55,893 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:39:55,893 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:39:55,893 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:39:55,893 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:39:55,957 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:39:55,957 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:39:55,957 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:39:55,957 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:39:55,957 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:39:55,957 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:40:23,707 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 14:40:25,232 : INFO : test_search : Iphone Search Successfully
+2022-08-25 14:40:25,250 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 14:40:25,555 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 13 Pro (256GB) - Gold', 'Apple iPhone 13 Pro (256GB) - Sierra Blue']
+2022-08-25 14:40:25,555 : INFO : test_results : Iphone List ['Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - (Product) RED', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 (512GB) - Pink', 'Apple iPhone 13 Mini (256GB) - Blue', 'Apple iPhone 13 Mini (256GB) - Starlight', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 13 Pro (256GB) - Gold', 'Apple iPhone 13 Pro (256GB) - Sierra Blue']
+2022-08-25 14:40:30,720 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 14:40:30,788 : INFO : test_sign_page : Email id Entered
+2022-08-25 14:40:31,829 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:40:31,829 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 14:40:31,878 : INFO : test_sign_page : Password Entered
+2022-08-25 14:40:31,878 : INFO : test_sign_page : Password Entered
+2022-08-25 14:40:31,878 : INFO : test_sign_page : Password Entered
+2022-08-25 14:40:31,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:40:31,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:40:31,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:40:31,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 14:40:34,398 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:40:34,398 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:40:34,398 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:40:34,398 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:40:34,398 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:40:34,464 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:40:34,464 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:40:34,464 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:40:34,464 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:40:34,464 : INFO : test_sign_page : Sign page closed
+2022-08-25 14:40:34,464 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:05:48,727 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 15:05:51,010 : INFO : test_search : Iphone Search Successfully
+2022-08-25 15:06:01,058 : INFO : test_results : Total Iphone from Results 0
+2022-08-25 15:06:11,082 : INFO : test_results : Iphone List []
+2022-08-25 15:06:11,082 : INFO : test_results : Iphone List []
+2022-08-25 15:08:02,152 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 15:08:03,989 : INFO : test_search : Iphone Search Successfully
+2022-08-25 15:08:04,049 : INFO : test_results : Total Iphone from Results 22
+2022-08-25 15:08:04,379 : INFO : test_results : Iphone List ['OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Rainbow Silver, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Crystal Black, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 4GB RAM, 64GB Storage) with No Cost EMI & Additional Exchange Offers', '(Renewed) OPPO F19 Pro+ 5G (Space Silver, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Redmi Note 11 (Starburst White, 4GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!', 'OPPO K10 (Black Carbon, 6GB RAM 128GB Storage)', 'OPPO Enco M32 Bluetooth Wireless in Ear Earbuds with Mic,10 Mins Charge - 20Hrs Music Fast Charge, 28Hrs Battery Life,10mm Driver, IP55 Dust & Water Resistant (Black)', 'OPPO Enco Buds Bluetooth True Wireless in Ear Earbuds(TWS) with Mic, 24H Battery Life, Supports Dolby Atmos Noise Cancellation During Calls, IP54 Dust & Water Resistant,(Blue, True Wireless)', 'OPPO F21 Pro 5G (Rainbow Spectrum, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB, 128GB Storage) AI Triple Camera | 6.52" HD+ Screen | 2.3GHz Mediatek Helio P35 Octa Core Processor', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Dynamic Black, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO F19 (Midnight Blue, 6GB RAM, 128GB Storage) 48MP Triple Camera | AMOLED FHD+ Display | 5000 mAh Battery', 'Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!', 'Samsung Galaxy M33 5G (Mystique Green, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately']
+2022-08-25 15:08:04,379 : INFO : test_results : Iphone List ['OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Rainbow Silver, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Crystal Black, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 4GB RAM, 64GB Storage) with No Cost EMI & Additional Exchange Offers', '(Renewed) OPPO F19 Pro+ 5G (Space Silver, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Redmi Note 11 (Starburst White, 4GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!', 'OPPO K10 (Black Carbon, 6GB RAM 128GB Storage)', 'OPPO Enco M32 Bluetooth Wireless in Ear Earbuds with Mic,10 Mins Charge - 20Hrs Music Fast Charge, 28Hrs Battery Life,10mm Driver, IP55 Dust & Water Resistant (Black)', 'OPPO Enco Buds Bluetooth True Wireless in Ear Earbuds(TWS) with Mic, 24H Battery Life, Supports Dolby Atmos Noise Cancellation During Calls, IP54 Dust & Water Resistant,(Blue, True Wireless)', 'OPPO F21 Pro 5G (Rainbow Spectrum, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB, 128GB Storage) AI Triple Camera | 6.52" HD+ Screen | 2.3GHz Mediatek Helio P35 Octa Core Processor', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Dynamic Black, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO F19 (Midnight Blue, 6GB RAM, 128GB Storage) 48MP Triple Camera | AMOLED FHD+ Display | 5000 mAh Battery', 'Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!', 'Samsung Galaxy M33 5G (Mystique Green, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately']
+2022-08-25 15:08:10,310 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 15:08:10,370 : INFO : test_sign_page : Email id Entered
+2022-08-25 15:08:11,365 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:08:11,365 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:08:11,415 : INFO : test_sign_page : Password Entered
+2022-08-25 15:08:11,415 : INFO : test_sign_page : Password Entered
+2022-08-25 15:08:11,415 : INFO : test_sign_page : Password Entered
+2022-08-25 15:08:11,479 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:08:11,479 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:08:11,479 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:08:11,479 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:08:13,722 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:08:13,722 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:08:13,722 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:08:13,722 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:08:13,722 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:08:13,785 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:08:13,785 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:08:13,785 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:08:13,785 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:08:13,785 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:08:13,785 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:09:56,883 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 15:09:58,329 : INFO : test_search : Iphone Search Successfully
+2022-08-25 15:09:58,365 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 15:09:58,640 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 11 (128GB) - Black', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 11 (128GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Midnight']
+2022-08-25 15:09:58,640 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 11 (128GB) - Black', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 11 (128GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Midnight']
+2022-08-25 15:10:07,398 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 15:10:07,469 : INFO : test_sign_page : Email id Entered
+2022-08-25 15:10:08,675 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:10:08,675 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:10:08,726 : INFO : test_sign_page : Password Entered
+2022-08-25 15:10:08,726 : INFO : test_sign_page : Password Entered
+2022-08-25 15:10:08,726 : INFO : test_sign_page : Password Entered
+2022-08-25 15:10:08,788 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:10:08,788 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:10:08,788 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:10:08,788 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:10:11,223 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:10:11,223 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:10:11,223 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:10:11,223 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:10:11,223 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:10:11,293 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:10:11,293 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:10:11,293 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:10:11,293 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:10:11,293 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:10:11,293 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:13,080 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 15:17:15,985 : INFO : test_search : Iphone Search Successfully
+2022-08-25 15:17:16,018 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 15:17:16,286 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (128GB) - Pink', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 Mini (128GB) - Pink', 'Apple iPhone 11 (64GB) - Purple']
+2022-08-25 15:17:16,286 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (128GB) - Pink', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 Mini (128GB) - Pink', 'Apple iPhone 11 (64GB) - Purple']
+2022-08-25 15:17:22,020 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 15:17:22,087 : INFO : test_sign_page : Email id Entered
+2022-08-25 15:17:23,284 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:17:23,284 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:17:23,330 : INFO : test_sign_page : Password Entered
+2022-08-25 15:17:23,330 : INFO : test_sign_page : Password Entered
+2022-08-25 15:17:23,330 : INFO : test_sign_page : Password Entered
+2022-08-25 15:17:23,395 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:23,395 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:23,395 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:23,395 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:26,608 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:26,608 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:26,608 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:26,608 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:26,608 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:26,671 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:26,671 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:26,671 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:26,671 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:26,671 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:26,671 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:45,218 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 15:17:46,689 : INFO : test_search : Iphone Search Successfully
+2022-08-25 15:17:46,722 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 15:17:46,996 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 12 Mini (128GB) - Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 12 (64GB) - Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 Mini (128GB) - Pink']
+2022-08-25 15:17:46,996 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 12 Mini (128GB) - Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 12 (64GB) - Blue', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 Mini (128GB) - Pink']
+2022-08-25 15:17:52,522 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 15:17:52,590 : INFO : test_sign_page : Email id Entered
+2022-08-25 15:17:53,831 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:17:53,831 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:17:53,864 : INFO : test_sign_page : Password Entered
+2022-08-25 15:17:53,864 : INFO : test_sign_page : Password Entered
+2022-08-25 15:17:53,864 : INFO : test_sign_page : Password Entered
+2022-08-25 15:17:53,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:53,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:53,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:53,940 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:17:56,565 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:56,565 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:56,565 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:56,565 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:56,565 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:17:56,629 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:56,629 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:56,629 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:56,629 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:56,629 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:17:56,629 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:22:26,135 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 15:22:27,592 : INFO : test_search : Iphone Search Successfully
+2022-08-25 15:22:27,624 : INFO : test_results : Total Iphone from Results 18
+2022-08-25 15:22:27,897 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (128GB) - Pink', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 Mini (128GB) - Pink']
+2022-08-25 15:22:27,897 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (128GB) - Pink', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - Green', '(I:Phone) 5s Space Grey 16GB with 8 Mega Pixel Camera', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 13 Mini (128GB) - Pink']
+2022-08-25 15:22:33,227 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-25 15:22:33,292 : INFO : test_sign_page : Email id Entered
+2022-08-25 15:22:34,556 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:22:34,556 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-25 15:22:34,590 : INFO : test_sign_page : Password Entered
+2022-08-25 15:22:34,590 : INFO : test_sign_page : Password Entered
+2022-08-25 15:22:34,590 : INFO : test_sign_page : Password Entered
+2022-08-25 15:22:34,659 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:22:34,659 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:22:34,659 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:22:34,659 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-25 15:22:37,327 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:22:37,327 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:22:37,327 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:22:37,327 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:22:37,327 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 15:22:37,390 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:22:37,390 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:22:37,390 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:22:37,390 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:22:37,390 : INFO : test_sign_page : Sign page closed
+2022-08-25 15:22:37,390 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:43:21,579 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 11:43:23,154 : INFO : test_search : Iphone Search Successfully
+2022-08-26 11:43:23,186 : INFO : test_results : Total Iphone from Results 18
+2022-08-26 11:43:23,454 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 12 (64GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 11 (64GB) - Yellow', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 Pro (256 GB) - Alpine Green']
+2022-08-26 11:43:23,454 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 12 (64GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 11 (64GB) - Yellow', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 Pro (256 GB) - Alpine Green']
+2022-08-26 11:43:28,445 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-26 11:43:28,510 : INFO : test_sign_page : Email id Entered
+2022-08-26 11:43:29,659 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:43:29,659 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:43:29,692 : INFO : test_sign_page : Password Entered
+2022-08-26 11:43:29,692 : INFO : test_sign_page : Password Entered
+2022-08-26 11:43:29,692 : INFO : test_sign_page : Password Entered
+2022-08-26 11:43:29,761 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:43:29,761 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:43:29,761 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:43:29,761 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:43:32,091 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:43:32,091 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:43:32,091 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:43:32,091 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:43:32,091 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:43:32,154 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:43:32,154 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:43:32,154 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:43:32,154 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:43:32,154 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:43:32,154 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:44:05,440 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 11:44:07,322 : INFO : test_search : Iphone Search Successfully
+2022-08-26 11:44:07,340 : INFO : test_results : Total Iphone from Results 22
+2022-08-26 11:44:07,682 : INFO : test_results : Iphone List ['OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Rainbow Silver, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Crystal Black, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 4GB RAM, 64GB Storage) with No Cost EMI & Additional Exchange Offers', 'Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!', 'Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!', 'OPPO Enco M32 Bluetooth Wireless in Ear Earbuds with Mic,10 Mins Charge - 20Hrs Music Fast Charge, 28Hrs Battery Life,10mm Driver, IP55 Dust & Water Resistant (Black)', 'OPPO Enco Buds Bluetooth True Wireless in Ear Earbuds(TWS) with Mic, 24H Battery Life, Supports Dolby Atmos Noise Cancellation During Calls, IP54 Dust & Water Resistant,(Blue, True Wireless)', 'OPPO F21 Pro 5G (Rainbow Spectrum, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB, 128GB Storage) AI Triple Camera | 6.52" HD+ Screen | 2.3GHz Mediatek Helio P35 Octa Core Processor', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Dynamic Black, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO F21 Pro (Cosmic Black, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO Reno7 Pro 5G (Startrails Blue, 12GB RAM, 256GB Storage)', 'Smartphone Y21 4 GB RAM, 64 GB ROM', 'Samsung Galaxy M33 5G (Mystique Green, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately']
+2022-08-26 11:44:07,682 : INFO : test_results : Iphone List ['OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Rainbow Silver, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Crystal Black, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 4GB RAM, 64GB Storage) with No Cost EMI & Additional Exchange Offers', 'Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!', 'Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!', 'OPPO Enco M32 Bluetooth Wireless in Ear Earbuds with Mic,10 Mins Charge - 20Hrs Music Fast Charge, 28Hrs Battery Life,10mm Driver, IP55 Dust & Water Resistant (Black)', 'OPPO Enco Buds Bluetooth True Wireless in Ear Earbuds(TWS) with Mic, 24H Battery Life, Supports Dolby Atmos Noise Cancellation During Calls, IP54 Dust & Water Resistant,(Blue, True Wireless)', 'OPPO F21 Pro 5G (Rainbow Spectrum, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB, 128GB Storage) AI Triple Camera | 6.52" HD+ Screen | 2.3GHz Mediatek Helio P35 Octa Core Processor', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Dynamic Black, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO F21 Pro (Cosmic Black, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO Reno7 Pro 5G (Startrails Blue, 12GB RAM, 256GB Storage)', 'Smartphone Y21 4 GB RAM, 64 GB ROM', 'Samsung Galaxy M33 5G (Mystique Green, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately']
+2022-08-26 11:44:13,921 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-26 11:44:13,989 : INFO : test_sign_page : Email id Entered
+2022-08-26 11:44:15,132 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:44:15,132 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:44:15,182 : INFO : test_sign_page : Password Entered
+2022-08-26 11:44:15,182 : INFO : test_sign_page : Password Entered
+2022-08-26 11:44:15,182 : INFO : test_sign_page : Password Entered
+2022-08-26 11:44:15,255 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:44:15,255 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:44:15,255 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:44:15,255 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:44:17,807 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:44:17,807 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:44:17,807 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:44:17,807 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:44:17,807 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:44:17,873 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:44:17,873 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:44:17,873 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:44:17,873 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:44:17,873 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:44:17,873 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:45:18,009 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 11:45:19,422 : INFO : test_search : Iphone Search Successfully
+2022-08-26 11:45:19,454 : INFO : test_results : Total Iphone from Results 18
+2022-08-26 11:45:19,722 : INFO : test_results : Iphone List ['Apple iPhone 12 (128GB) - Green', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 12 (64GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 11 (64GB) - Yellow', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 Pro (256 GB) - Alpine Green']
+2022-08-26 11:45:19,722 : INFO : test_results : Iphone List ['Apple iPhone 12 (128GB) - Green', 'Apple iPhone 13 (512GB) - (Product) RED', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 12 (64GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 11 (64GB) - Yellow', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 Pro (256 GB) - Alpine Green']
+2022-08-26 11:45:25,032 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-26 11:45:25,104 : INFO : test_sign_page : Email id Entered
+2022-08-26 11:45:26,311 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:45:26,311 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:45:26,352 : INFO : test_sign_page : Password Entered
+2022-08-26 11:45:26,352 : INFO : test_sign_page : Password Entered
+2022-08-26 11:45:26,352 : INFO : test_sign_page : Password Entered
+2022-08-26 11:45:26,429 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:45:26,429 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:45:26,429 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:45:26,429 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:45:28,920 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:45:28,920 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:45:28,920 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:45:28,920 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:45:28,920 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:45:28,983 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:45:28,983 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:45:28,983 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:45:28,983 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:45:28,983 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:45:28,983 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:45:55,541 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 11:45:57,154 : INFO : test_search : Iphone Search Successfully
+2022-08-26 11:45:57,190 : INFO : test_results : Total Iphone from Results 22
+2022-08-26 11:45:57,567 : INFO : test_results : Iphone List ['OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Crystal Black, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A15s (Rainbow Silver, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 4GB RAM, 64GB Storage) with No Cost EMI & Additional Exchange Offers', 'Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!', 'Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!', 'OPPO Enco M32 Bluetooth Wireless in Ear Earbuds with Mic,10 Mins Charge - 20Hrs Music Fast Charge, 28Hrs Battery Life,10mm Driver, IP55 Dust & Water Resistant (Black)', 'OPPO F21 Pro 5G (Rainbow Spectrum, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO Enco Buds Bluetooth True Wireless in Ear Earbuds(TWS) with Mic, 24H Battery Life, Supports Dolby Atmos Noise Cancellation During Calls, IP54 Dust & Water Resistant,(Blue, True Wireless)', 'OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB, 128GB Storage) AI Triple Camera | 6.52" HD+ Screen | 2.3GHz Mediatek Helio P35 Octa Core Processor', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Dynamic Black, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Green, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'Samsung Galaxy M33 5G (Mystique Green, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately', 'I KALL K480 Smartphone (4GB, 64GB) (6.53 Inch Display) | Sky Blue']
+2022-08-26 11:45:57,567 : INFO : test_results : Iphone List ['OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Crystal Black, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A15s (Rainbow Silver, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 6GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers', 'OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers', 'Oppo A54 (Starry Blue, 4GB RAM, 64GB Storage) with No Cost EMI & Additional Exchange Offers', 'Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!', 'Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!', 'OPPO Enco M32 Bluetooth Wireless in Ear Earbuds with Mic,10 Mins Charge - 20Hrs Music Fast Charge, 28Hrs Battery Life,10mm Driver, IP55 Dust & Water Resistant (Black)', 'OPPO F21 Pro 5G (Rainbow Spectrum, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO Enco Buds Bluetooth True Wireless in Ear Earbuds(TWS) with Mic, 24H Battery Life, Supports Dolby Atmos Noise Cancellation During Calls, IP54 Dust & Water Resistant,(Blue, True Wireless)', 'OPPO F21 Pro (Sunset Orange, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Fancy White, 4GB, 128GB Storage) AI Triple Camera | 6.52" HD+ Screen | 2.3GHz Mediatek Helio P35 Octa Core Processor', 'OPPO A57 (Glowing Black, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'OPPO A15s (Dynamic Black, 4GB RAM, 64GB Storage) With No Cost EMI/Additional Exchange Offers', 'OPPO A57 (Glowing Green, 4GB RAM, 64 Storage) with No Cost EMI/Additional Exchange Offers', 'Samsung Galaxy M33 5G (Mystique Green, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately', 'I KALL K480 Smartphone (4GB, 64GB) (6.53 Inch Display) | Sky Blue']
+2022-08-26 11:46:03,204 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-26 11:46:03,274 : INFO : test_sign_page : Email id Entered
+2022-08-26 11:46:04,449 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:46:04,449 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:46:04,500 : INFO : test_sign_page : Password Entered
+2022-08-26 11:46:04,500 : INFO : test_sign_page : Password Entered
+2022-08-26 11:46:04,500 : INFO : test_sign_page : Password Entered
+2022-08-26 11:46:04,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:46:04,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:46:04,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:46:04,567 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:46:07,028 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:46:07,028 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:46:07,028 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:46:07,028 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:46:07,028 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:46:07,093 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:46:07,093 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:46:07,093 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:46:07,093 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:46:07,093 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:46:07,093 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:48:03,670 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 11:48:05,207 : INFO : test_search : Iphone Search Successfully
+2022-08-26 11:48:05,242 : INFO : test_results : Total Iphone from Results 18
+2022-08-26 11:48:05,507 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 12 Mini (128GB) - Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 12 (64GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 11 (64GB) - Yellow', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 Pro (256 GB) - Alpine Green']
+2022-08-26 11:48:05,507 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 12 Mini (128GB) - Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 12 (64GB) - (Product) RED', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 11 (64GB) - Yellow', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Mini (256GB) - Pink', 'Apple iPhone 13 Pro (256 GB) - Alpine Green']
+2022-08-26 11:48:10,899 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-26 11:48:10,965 : INFO : test_sign_page : Email id Entered
+2022-08-26 11:48:12,247 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:48:12,247 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 11:48:12,282 : INFO : test_sign_page : Password Entered
+2022-08-26 11:48:12,282 : INFO : test_sign_page : Password Entered
+2022-08-26 11:48:12,282 : INFO : test_sign_page : Password Entered
+2022-08-26 11:48:12,357 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:48:12,357 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:48:12,357 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:48:12,357 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 11:48:14,906 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:48:14,906 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:48:14,906 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:48:14,906 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:48:14,906 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 11:48:14,969 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:48:14,969 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:48:14,969 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:48:14,969 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:48:14,969 : INFO : test_sign_page : Sign page closed
+2022-08-26 11:48:14,969 : INFO : test_sign_page : Sign page closed
+2022-08-26 15:30:10,687 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 15:30:12,197 : INFO : test_search : Iphone Search Successfully
+2022-08-26 15:30:12,231 : INFO : test_results : Total Iphone from Results 18
+2022-08-26 15:30:12,519 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 Mini (128GB) - White', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue']
+2022-08-26 15:30:12,519 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 13 Pro (128GB) - Gold', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 Mini (128GB) - White', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone SE (128 GB) - (Product) RED (3rd Generation)', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue']
+2022-08-26 15:30:17,822 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-26 15:30:17,872 : INFO : test_sign_page : Email id Entered
+2022-08-26 15:30:19,150 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 15:30:19,150 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 15:30:19,186 : INFO : test_sign_page : Password Entered
+2022-08-26 15:30:19,186 : INFO : test_sign_page : Password Entered
+2022-08-26 15:30:19,186 : INFO : test_sign_page : Password Entered
+2022-08-26 15:30:19,266 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 15:30:19,266 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 15:30:19,266 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 15:30:19,266 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 15:30:21,840 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:30:21,840 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:30:21,840 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:30:21,840 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:30:21,840 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:30:21,903 : INFO : test_sign_page : Sign page closed
+2022-08-26 15:30:21,903 : INFO : test_sign_page : Sign page closed
+2022-08-26 15:30:21,903 : INFO : test_sign_page : Sign page closed
+2022-08-26 15:30:21,903 : INFO : test_sign_page : Sign page closed
+2022-08-26 15:30:21,903 : INFO : test_sign_page : Sign page closed
+2022-08-26 15:30:21,903 : INFO : test_sign_page : Sign page closed
+2022-08-26 17:31:40,177 : INFO : test_driver : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 17:31:41,748 : INFO : test_search : Iphone Search Successfully
+2022-08-26 17:31:41,776 : INFO : test_results : Total Iphone from Results 18
+2022-08-26 17:31:42,004 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - Midnight', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 Mini (128GB) - White', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 12 (128GB) - Green', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 Mini (128GB) - Black', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue']
+2022-08-26 17:31:42,004 : INFO : test_results : Iphone List ['Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 Mini (128GB) - Midnight', 'Apple iPhone 13 Pro (128GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Purple', 'Apple iPhone 13 Pro Max (256GB) - Sierra Blue', 'Apple iPhone 12 (64GB) - Black', 'Apple iPhone 12 Mini (128GB) - White', 'Apple iPhone 13 Pro (128 GB) - Alpine Green', 'Apple iPhone 13 (256 GB) - Green', 'Apple iPhone 13 (256GB) - Blue', 'Apple iPhone 12 (64GB) - White', 'Apple iPhone 13 (256GB) - Starlight', 'Apple iPhone 13 (256GB) - Pink', 'Apple iPhone 12 (64GB) - Green', 'Apple iPhone 12 (128GB) - Green', 'Apple iPhone 13 (256GB) - Midnight', 'Apple iPhone 12 Mini (128GB) - Black', 'Apple iPhone 13 Pro Max (128GB) - Sierra Blue']
+2022-08-26 17:31:47,502 : INFO : test_fourthiphone_page : Successfully switch to the new tab and click on Buy Button
+2022-08-26 17:31:47,545 : INFO : test_sign_page : Email id Entered
+2022-08-26 17:31:48,801 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 17:31:48,801 : INFO : test_sign_page : Successfully click to the Continue Button
+2022-08-26 17:31:48,830 : INFO : test_sign_page : Password Entered
+2022-08-26 17:31:48,830 : INFO : test_sign_page : Password Entered
+2022-08-26 17:31:48,830 : INFO : test_sign_page : Password Entered
+2022-08-26 17:31:48,889 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 17:31:48,889 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 17:31:48,889 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 17:31:48,889 : INFO : test_sign_page : Successfully click Sign Button
+2022-08-26 17:31:51,527 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 17:31:51,527 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 17:31:51,527 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 17:31:51,527 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 17:31:51,527 : INFO : test_sign_page : Message To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 17:31:51,589 : INFO : test_sign_page : Sign page closed
+2022-08-26 17:31:51,589 : INFO : test_sign_page : Sign page closed
+2022-08-26 17:31:51,589 : INFO : test_sign_page : Sign page closed
+2022-08-26 17:31:51,589 : INFO : test_sign_page : Sign page closed
+2022-08-26 17:31:51,589 : INFO : test_sign_page : Sign page closed
+2022-08-26 17:31:51,589 : INFO : test_sign_page : Sign page closed

@@ -1,0 +1,70 @@
+1661336052175	geckodriver	INFO	Listening on 127.0.0.1:54153
+1661336052179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletW0LEj"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661336053301	Marionette	INFO	Marionette enabled
+1661336053306	Marionette	INFO	Listening on port 41719
+WebDriver BiDi listening on ws://localhost:38579
+Read port: 41719
+1661336053448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletW0LEj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38579/devtools/browser/0b13b623-fe45-408f-86ff-55429414385d
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.in"
+JavaScript warning: https://www.amazon.in/s?k=iphone+13&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf3aefa900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteVideoDecoderChild::InitIPDL(const mozilla::VideoInfo &, float, const CreateDecoderParams::OptionSet &, Maybe<layers::TextureFactoryIdentifier>, const Maybe<uint64_t> &): RemoteDecoderManager is not available.: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf3aefa900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf39e79500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf39e79500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf39e5ca00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf39e5ca00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf39e77400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 42911, MediaDecoderStateMachine #1] WARNING: Decoder=7fcf39e77400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/01zKhl-DyGL._RC|21ojI99jc4L.js,414OrY63zAL.js,01N0G7oHRlL.js,31afBQnlthL.js,21Gn8WTjh2L.js,11viIoOEOPL.js,01PRkM1aDfL.js,21JrtlI3BLL.js,21sf8sNve5L.js,01TF4KwVp5L.js,21zkk9eIyoL.js,314+HdTzt9L.js,21I0H6xOKlL.js,01IFYXVRsrL.js,51vkYNG1X6L.js,01j5DeZSMzL.js,31lXACDtANL.js,41I03FXXAtL.js,21fAUGxUxsL.js,51bpjBZb9IL.js,311G9mm4H-L.js,01ly-sHeg8L.js,01acF69nbrL.js,31XG5cAKhML.js,01WbDXT2CzL.js,21i4Nr0pHgL.js,21zQdE9ch2L.js,21ptL48PNRL.js,11jC1BUSQzL.js,41WGS387PiL.js,013Fzw-eTvL.js,01a6I0+Jp1L.js,01QeVvpkeqL.js,01QWH6FiPxL.js,01WFCqb23zL.js,21QnPVLIO1L.js,01KLhFB6BeL.js,31i0Hd4f3IL.js,21-OuHZtF0L.js,01KMgnXK2sL.js,010ds6pSQXL.js,11+zRe99riL.js,01LGGMRB2KL.js,01VrcaDuQIL.js,21+c0oXw-tL.js,21jSrevmgsL.js,11OIWEoBBFL.js,01Sdh4wVe3L.js,018gtME7ztL.js,11eJsC+ICqL.js,21ca5Woru2L.js,01LsVBlpU9L.js,015FiitmhFL.js,017cIAbvZsL.js_.js?AUIClients/SearchPartnerAssets&Ef96GlKD#258953-T2.325177-T1.368471-T1.485007-T1.382092-T1.414644-T1.407143-T1, line 503: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+1661336067597	Marionette	INFO	Stopped listening on port 41719
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1661336336121	geckodriver	INFO	Listening on 127.0.0.1:50551
+1661336336124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV08kmk"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661336336809	Marionette	INFO	Marionette enabled
+1661336336813	Marionette	INFO	Listening on port 42831
+WebDriver BiDi listening on ws://localhost:45905
+Read port: 42831
+1661336336892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV08kmk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45905/devtools/browser/5e597480-9489-4984-aba7-672be96e3f89
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.in"
+JavaScript warning: https://www.amazon.in/s?k=iphone+13&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a7356e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteVideoDecoderChild::InitIPDL(const mozilla::VideoInfo &, float, const CreateDecoderParams::OptionSet &, Maybe<layers::TextureFactoryIdentifier>, const Maybe<uint64_t> &): RemoteDecoderManager is not available.: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a7356e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a721e1000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a721e1000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a721e1600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a721e1600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a721e0400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 44360, MediaDecoderStateMachine #1] WARNING: Decoder=7f8a721e0400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-6yohV0/firefox-103.0+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/01zKhl-DyGL._RC|21ojI99jc4L.js,414OrY63zAL.js,01N0G7oHRlL.js,31afBQnlthL.js,21Gn8WTjh2L.js,11viIoOEOPL.js,01PRkM1aDfL.js,21JrtlI3BLL.js,21sf8sNve5L.js,01TF4KwVp5L.js,21zkk9eIyoL.js,314+HdTzt9L.js,21I0H6xOKlL.js,01IFYXVRsrL.js,51vkYNG1X6L.js,01j5DeZSMzL.js,31lXACDtANL.js,41I03FXXAtL.js,21fAUGxUxsL.js,51bpjBZb9IL.js,311G9mm4H-L.js,01ly-sHeg8L.js,01acF69nbrL.js,31XG5cAKhML.js,01WbDXT2CzL.js,21i4Nr0pHgL.js,21zQdE9ch2L.js,21ptL48PNRL.js,11jC1BUSQzL.js,41WGS387PiL.js,013Fzw-eTvL.js,01a6I0+Jp1L.js,01QeVvpkeqL.js,01QWH6FiPxL.js,01WFCqb23zL.js,21QnPVLIO1L.js,01KLhFB6BeL.js,31i0Hd4f3IL.js,21-OuHZtF0L.js,01KMgnXK2sL.js,010ds6pSQXL.js,11+zRe99riL.js,01LGGMRB2KL.js,01VrcaDuQIL.js,21+c0oXw-tL.js,21jSrevmgsL.js,11OIWEoBBFL.js,01Sdh4wVe3L.js,018gtME7ztL.js,11eJsC+ICqL.js,21ca5Woru2L.js,01LsVBlpU9L.js,015FiitmhFL.js,017cIAbvZsL.js_.js?AUIClients/SearchPartnerAssets&Ef96GlKD#258953-T2.325177-T1.368471-T1.485007-T1.382092-T1.414644-T1.407143-T1, line 503: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+1661336350443	Marionette	INFO	Stopped listening on port 42831
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Invalid port. Exiting...
